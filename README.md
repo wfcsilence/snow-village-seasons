@@ -2,7 +2,7 @@
 
 一座被大山和森林环绕的东北小镇，以「雪乡小仓买」便利店为中心，在冬季雪夜和夏日晚霞之间切换。
 
-[在线体验](https://wfcsilence.github.io/snow-village-seasons/) · [网页版 ZIP](https://github.com/wfcsilence/snow-village-seasons/releases/latest/download/snow-village-seasons-web.zip) · [小工具 ZIP](https://github.com/wfcsilence/snow-village-seasons/releases/latest/download/snow-village-seasons-minitool.zip)
+[在线体验](https://wfcsilence.github.io/snow-village-seasons/) · [网页版 ZIP](https://github.com/wfcsilence/snow-village-seasons/releases/latest/download/snow-village-seasons-web.zip)
 
 ![夏日晚霞](previews/summer.png)
 ![冬季雪夜](previews/winter.png)
@@ -17,7 +17,7 @@
 
 拖动旋转、滚轮或双指缩放，双击聚焦；右上角切换冬夏，左下角重置，右下角预览并保存明信片。首次操作后启用声音，M 键静音。手机会显示横屏引导。
 
-根目录 index.html 是可直接运行的自适应单文件网页；小工具目录为外置经典脚本横屏版。全部场景、纹理与环境声音均随项目提供或在本地生成，不依赖远程模型与音频。私人留言保存在访问者本地，不会提交到仓库。
+根目录 index.html 是可直接运行的自适应单文件网页。全部场景、纹理与环境声音均随项目提供或在本地生成，不依赖远程模型与音频。私人留言保存在访问者本地，不会提交到仓库。
 
 详见[使用说明](使用说明.md)、[完整迭代记录](迭代记录.md)与[第三方许可](THIRD_PARTY_NOTICES.md)。
 
@@ -32,4 +32,4 @@
 
 [完整迭代记录](迭代记录.md)按实际推进顺序回顾各轮设计，不将较早的对话阶段冒充为本仓库历史提交。
 
-桌面及手机尺寸浏览器已检查；小工具相册保存使用模拟桥接，平台及手机真机待测。
+桌面及手机尺寸浏览器已检查。
